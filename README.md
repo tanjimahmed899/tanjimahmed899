@@ -1,4 +1,4 @@
-# Hi, I'm Tanjim Ahmed 👋
+# Assalamualaikum, I'm Tanjim Ahmed 👋
 
 ### VLSI | RTL Design | Digital IC Design | SystemVerilog | ASIC Design
 
